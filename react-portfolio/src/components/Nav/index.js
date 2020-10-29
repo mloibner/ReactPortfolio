@@ -1,6 +1,5 @@
-import React, { useEffect } from "react";
+import React from "react";
 import Nav from 'react-bootstrap/Nav'
-import {useHistory} from "react-router-dom"
 import "../style.css"
 
 function NavBar() {
