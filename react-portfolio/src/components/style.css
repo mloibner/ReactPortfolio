@@ -1,0 +1,17 @@
+.homeDiv{
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(189, 147, 229);
+}
+
+.imgBack {
+    min-width: 100%;
+    margin: 0 auto;
+
+}
+
+.navClass {
+    text-align: center;
+    background-color: burlywood;
+    display: inline-flexbox;
+}
